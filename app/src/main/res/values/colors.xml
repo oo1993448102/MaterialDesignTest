@@ -3,4 +3,34 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="orange_cost">#ffad2c</color>
+    <color name="orange2">#80FF742C</color>
+    <color name="graylight">#FFE4E4E4</color>
+    <color name="graylight2">#FFB4B4B4</color>
+    <color name="graydrak">#FFABABAB</color>
+    <color name="backgray">#E6d5d5d5</color>
+    <color name="white2">#B0FFFFFF</color>
+    <color name="white3">#E6FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="green_bg">#FF9AFF9A</color>
+    <color name="blue">#FF3497D9</color>
+    <color name="transparent">#E6FFFFFF</color>
+    <color name="gray">#d7d7d7</color>
+    <color name="grayLight3">#9A000000</color>
+    <!--联系卖家  -->
+    <color name="green_btn">#99cc00</color>
+    <color name="green_btn_pressed">#c7e373</color>
+    <!--订舱预订  -->
+    <color name="blue_btn">#3399dc</color>
+    <color name="blue_btn_pressed">#4ac7ec</color>
+    <!--通用  -->
+    <color name="orange">#FFFF742C</color>
+    <color name="orange_click">#ffa23e</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_bg">#e9e9e9</color>
+    <color name="tag_gray">#d5d5d5</color>
+    <color name="btn_blue">#3399dc</color>
+    <color name="text_gray">#7c7c7c</color>
+
 </resources>
